@@ -1,5 +1,7 @@
 # Hackintosh, Asus X670-P WiFi, AMD Ryzen 9 9900X [12c/24t], 4x 16Gb DDR5 5600Mhz, AMD Radeon RX 6800 XT
 
+![Portfolio](https://github.com/user-attachments/assets/773cfd17-64bb-45a1-ba4a-ebcb8124a34d)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.4.1)
